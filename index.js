@@ -4,4 +4,3 @@ console.log("hello git");
 console.log("log");
 
 console.log("log 2");
-
