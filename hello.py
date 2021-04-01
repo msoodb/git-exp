@@ -8,3 +8,6 @@ def my_sum2():
 
 def minus():
 	print("minus")
+
+def test():
+	print("test")
