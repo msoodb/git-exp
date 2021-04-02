@@ -6,3 +6,7 @@ func datetotime() {
 func timetodate() {
   conxole.log('convert time to date')
 }
+
+func time() {
+  conxole.log('convert time')
+}
